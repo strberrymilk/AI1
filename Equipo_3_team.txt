@@ -1,0 +1,13 @@
+Ana Camila Cuevas González - A01412609
+Primera parte del output con Knuth-Morris-Pratt (KMP)
+Tercera parte del output con Dynamic Programming (DP)
+Archivo main
+Reporte
+Presentación
+
+César Augusto Ramírez Dávila A01712439
+Primera parte del output con algoritmo Z
+Segunda parte del output con algoritmo de Manacher
+Archivo main
+Reporte
+Presentación
